@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.grazerlinuxtage" name="Grazer Linuxtage" version="1.0.0" provider-name="mstroh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de">Grazer Linuxtage Videosammlung</summary>
+    <description lang="de">Grazer Linuxtage Videosammlung</description>
+    <summary lang="en">Grazer Linuxtage videos collection</summary>
+    <description lang="en">Grazer Linuxtage videos collection </description>
+    <disclaimer lang="de"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL</license>
+    <forum></forum>
+    <website>http://www.linuxtage.at/</website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
