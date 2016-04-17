@@ -1,1 +1,1 @@
-XBMC/Kodi addons
+Kodi addons
